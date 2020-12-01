@@ -8,5 +8,5 @@
   - [Portfolio](https://github.com)
 ## Contact
   - Phone: 123-456-7890
-  - Email: student@student.com
+  - Email: ethanhvachon@gmail.com
   
