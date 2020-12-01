@@ -3,19 +3,19 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
+cd stands for change directory, It's used for navigating the file structure in command prompt
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+mkdir means "make directory", it is used to create a directory/folder in file explorer through command prompt
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+It is the html tag that is the parent element for head and body, it encases all the code
 ```
 
 **4.** What does `HTML` stand for?
