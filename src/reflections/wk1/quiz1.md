@@ -67,6 +67,7 @@ The first tag used to create a list is the unordered list tag (ul), which create
 <!-- enter you answer in the space below -->
 ```
 
+The display: flex property changes the way elements in html are contained. Normally they would take up the entire width of a line, but this property displays everything in an inline style. It also allows you to use the flex properties, which you can use to position elements much easier than standard css.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
