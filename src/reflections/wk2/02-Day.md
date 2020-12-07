@@ -8,3 +8,4 @@ The three ways to write functions are Function Declarations, Function Expression
 Parameters are created when a function is written as a placeholder so information can be passed into the function when it is called, in the place of the parameters. An argument is the actual information that is passed into the function from the parameters.
 
 ## What are higher order functions? Can you provide an example?
+A higher-order function is a function that either takes another function in as an argument or returns another function. It is a function that operates on other functions. An example of this would be if you had a function that creates other specific but similar functions that are constructed based on the argument passed into the original function.
