@@ -75,5 +75,5 @@ A parameter is the placeholder for information to be passed into a function when
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-A primative value is directly stored by the variable, while a reference value isn't directly stored in a variable. The variable contains a address to access the reference value in the heap.
+A primitive value is directly stored by the variable, while a reference value isn't directly stored in a variable. The variable contains a address to access the reference value in the heap.
 ```
