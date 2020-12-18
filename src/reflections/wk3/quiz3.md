@@ -3,7 +3,7 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+There are four pillars of OOP or object oriented programming. Those four pillars are encapsulation, abstraction, inheritance, and finally polymorphism.
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -21,7 +21,7 @@ you would use staff[property], you can use variables to access data if the value
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is the practice of grouping together data and methods in a way where only the objects methods are the only things that have access to the data.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
