@@ -2,7 +2,7 @@
 __12-17-20__
 
 ## What problems does the Observer pattern seek to solve?
-
+It moves the draw functions to the controller in the form of event listeners 
 
 ## What are the three mechanisms of the observer pattern?
 
