@@ -12,3 +12,7 @@ async functionname(){
 
 ## What are some of the primary benefits of Async / Await?
 The main benefit of using Async/Await is that it's much more simple and easy to read. It also allows you to chain multiple async functions easily while keeping some readability intact. It also makes debugging much more easy, using a debugger with normal promises will not step over asynchronous code. With Async/Await, it's just like synchronous code to the compiler.
+
+
+
+## Daily Project https://github.com/ethanvachon/day-3-afternoon
