@@ -43,15 +43,15 @@ Calls to an API should be in the Service folder, while the try/catch should be i
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is one of the fundamental parts of object-oriented programming. It ensures that data can't be accessed where it isn't meant to be, which improves security and stability of code.
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+Successful requests will have a response code in the 200s
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+A response code of 500-599 represents a server error.
 ```
