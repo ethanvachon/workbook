@@ -28,7 +28,7 @@ A promise says that there will be something coming in from a server. An error is
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+The three processes of a request are pending, resolved, or rejected.
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
