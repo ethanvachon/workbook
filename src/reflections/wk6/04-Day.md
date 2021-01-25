@@ -10,4 +10,4 @@ __1/21/21__
 ## Can you pass parameters through nested routes? When might you use them?
 
 
-## Daily Project 
+## Daily Project PokeApi (on partners github)
