@@ -35,7 +35,7 @@ it can be used to run code based on an event, for example, you could run a funct
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
 <!-- enter you answer in the space below -->
 ```
-
+You can either use v-if or v-show to conditionally render on the page they both serve the same basic function but v-show just toggles the display property in css.
 ```
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
