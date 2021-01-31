@@ -10,4 +10,4 @@ Code documentation allows others to easily understand your code, it also helps y
 ## How important is Code Documentation and why?
 Code documentation is extremely important for code that you or someone else have to come back to in the future. Providing documentation makes code easier to maintain for anyone that isn't super familiar with the code to begin with.
 
-## Daily Project
+## Daily Project https://github.com/ethanvachon/partner-checkpoint

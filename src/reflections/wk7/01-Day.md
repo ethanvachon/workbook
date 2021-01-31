@@ -10,4 +10,4 @@ There are many benefits of using partner programming, with the most obvious bein
 ## What are some drawbacks of Pair Programming?
 The cost of hiring two devs rather than one is an obvious drawback to pair programming. This however, isn't extremely impactful, as the increased quality of code means maintenance is much easier to the future.
 
-## Daily Project
+## Daily Project https://github.com/ethanvachon/partner-checkpoint

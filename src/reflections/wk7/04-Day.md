@@ -7,4 +7,4 @@ __1/28/21__
 
 ## What would you do differently?
 
-## Daily Project
+## Daily Project https://github.com/ethanvachon/partner-checkpoint
