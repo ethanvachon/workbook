@@ -40,10 +40,10 @@ You can either use v-if or v-show to conditionally render on the page they both 
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
 ```
-
+It is the property that vue watches to determine what is changing in the loop.
 ```
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+It is essentially just a placeholder that only takes the 'name' attribute. It will eventually be replaced by other code when the app runs.
 ```
