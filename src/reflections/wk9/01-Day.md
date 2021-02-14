@@ -12,4 +12,6 @@ The basic planning of the project went very well. We had to change projects comp
 
 ## What would you do differently? Why?
 
+I had some problems with the first idea we had that I should've voiced sooner, we may have pivoted faster and had more time to plan our project. Also, we should've thought our the back end more before we started, our plan for it was missing a decent amount.
+
 ## Daily Project https://github.com/DanielMadden/capstone
