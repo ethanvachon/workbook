@@ -22,4 +22,4 @@ PRIMARY KEY (id)
 
 Delete from table_name deletes existing records from a table. Drop table table_name deletes the entire table in its entirety.
 
-## Daily Project
+## Daily Project https://github.com/ethanvachon/morning-challenge-2
