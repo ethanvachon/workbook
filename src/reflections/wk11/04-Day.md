@@ -6,4 +6,4 @@
 
 With the final coming, I am a bit nervous, but I've been coding a lot this week and I feel just about as ready as I can be. I'm hoping to get the back end done before the weekend is over, so during the week I can just focus on getting the front end functionality done for grading by tuesday or wednesday. After that I'll just be focusing on styling, which is really something of weakness of mine.
 
-## Daily Project
+## Daily Project all day fullstack lecture

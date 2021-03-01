@@ -14,4 +14,4 @@ This depends on the accessability syntax that was used but generally a class tak
 
 For almost all accessability modifiers, inheritance will work as normal, but anything marked as private won't be visible to the child classes. This may have some use cases, but you can access those private props if the child class is nestled inside the parent.
 
-## Daily Project
+## Daily Project https://github.com/ethanvachon/inheritance-test

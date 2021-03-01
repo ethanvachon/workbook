@@ -14,4 +14,4 @@ SQL injection can be done by modifying cookies to include SQL queries. You can a
 
 You can use a web application firewall, or an intrusion detection system to automatically detect and prevent these attacks, but those methods shouldn't be your sole protection from these attacks. You should escape all input that are supplied by the user.
 
-## Daily Project
+## Daily Project https://github.com/ethanvachon/service-practice

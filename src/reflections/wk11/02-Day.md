@@ -35,4 +35,4 @@ FOREIGN KEY (patientId)
 REFERENCES patients(id),
 )
 
-## Daily Project
+## Daily Project https://github.com/ethanvachon/contractor-jobs
